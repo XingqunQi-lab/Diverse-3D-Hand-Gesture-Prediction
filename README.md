@@ -6,4 +6,4 @@
 # Code
 We are organizing our code and will release the code soon. Sorry for the delay.
 # Demo Video
-Coming Soon.
+[Please watch it on YouTube](https://www.youtube.com/watch?v=pEJ4STAYNvM).
