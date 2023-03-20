@@ -8,4 +8,4 @@ We are organizing our code and will release the code soon. Sorry for the delay.
 # Demo Video
 [Please watch it on YouTube](https://www.youtube.com/watch?v=pEJ4STAYNvM).
 # Acknowledgement
-Thanks for the pioneering work [Body2hands](https://github.com/facebookresearch/body2hands) and [Frankmocap](https://github.com/facebookresearch/frankmocap)
+Thanks for the pioneering works [Body2hands](https://github.com/facebookresearch/body2hands) and [Frankmocap](https://github.com/facebookresearch/frankmocap).
