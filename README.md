@@ -5,3 +5,5 @@
 [Our newly collected TED Hands Dataset is avaiable now.](https://drive.google.com/drive/folders/1TVaK8rvkdd6D-N8JwfOzJLq4ZqAXcxWr?usp=sharing)
 # Code
 We are organizing our code and will release the code soon. Sorry for the delay.
+# Demo Video
+Coming Soon.
