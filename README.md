@@ -15,7 +15,7 @@ We are organizing our code and will release the code soon. Sorry for the delay.
 Thanks for the pioneering works [Body2hands](https://github.com/facebookresearch/body2hands) and [Frankmocap](https://github.com/facebookresearch/frankmocap).
 ## Citing
 
-If you use our code, please cite our work
+If you use our code or dataset, please cite our work
 
 ```
 @InProceedings{Qi_2023_CVPR,
