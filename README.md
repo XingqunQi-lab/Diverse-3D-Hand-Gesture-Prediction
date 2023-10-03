@@ -13,3 +13,17 @@ We are organizing our code and will release the code soon. Sorry for the delay.
 [Please watch it on YouTube](https://www.youtube.com/watch?v=i0pIlbdIh60).
 # Acknowledgement
 Thanks for the pioneering works [Body2hands](https://github.com/facebookresearch/body2hands) and [Frankmocap](https://github.com/facebookresearch/frankmocap).
+## Citing
+
+If you use our code, please cite our work
+
+```
+@InProceedings{Qi_2023_CVPR,
+    author    = {Qi, Xingqun and Liu, Chen and Sun, Muyi and Li, Lincheng and Fan, Changjie and Yu, Xin},
+    title     = {Diverse 3D Hand Gesture Prediction From Body Dynamics by Bilateral Hand Disentanglement},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {4616-4626}
+}
+```
